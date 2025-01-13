@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Wildan Djamal Belfass 👋
+💻 Software Developer | 🎨 Frontend Enthusiast  
 
-<!--
-**BenBalfas-dev/BenBalfas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🌟 Featured Projects
+- **[Project Name](#)**  
+  🚀 Brief Description (Key Technologies Used)
 
-Here are some ideas to get you started:
+## 🛠️ Tech & Tools
+- **Languages**:  HTML, CSS, JS, Kotlin
+- **Frameworks**:  ReactJs
+- **Cloud & Tools**:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 🌱 About Me  
+When I'm not coding, I enjoy playing football
+
+## 📫 Contact Me
+- LinkedIn:  
+- Portfolio:  
